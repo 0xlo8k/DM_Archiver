@@ -192,14 +192,6 @@ Contributions, bug reports, and feature suggestions are welcome.
 
 Please never include private conversation data, credentials, or authentication tokens in issues or pull requests.
 
----
-
-## `10` — License
-
-Distributed under the MIT License. See [`LICENSE`](LICENSE) for details.
-
----
-
 <div align="center">
 
 ### `ARCHIVE YOUR HISTORY. KEEP YOUR DATA YOURS.`
